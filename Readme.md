@@ -1,6 +1,6 @@
-# 🛒 Shopping Basket Price Calculator
+# 🛒 Shopping Cart Price Calculator
 
-A program written in **TypeScript** (Javascript)that calculates the **total cost of a shopping basket**, applying special pricing offers where applicable.
+A program written in **TypeScript** (Javascript)that calculates the **total cost of a shopping cart**, applying special pricing offers where applicable.
 
 > 🕒 This solution is to be designed and followed with clean architecture principles with Object-Oriented Programming and Unit Testing.
 
@@ -8,7 +8,7 @@ A program written in **TypeScript** (Javascript)that calculates the **total cost
 
 ## 📌 Problem Statement
 
-Given a list of items (identified by name), calculate the total price of the shopping basket. The same item can appear multiple times.
+Given a list of items (identified by name), calculate the total price of the shopping cart. The same item can appear multiple times.
 
 ### ✅ Example Input
 
@@ -29,8 +29,8 @@ Given a list of items (identified by name), calculate the total price of the sho
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/shopping-basket-calculator.git
-cd shopping-basket-calculator
+git clone https://github.com/yourusername/shopping-cart-calculator.git
+cd shopping-cart-calculator
 
 npm install
 npm start
@@ -60,4 +60,4 @@ npm start
   - Ensures correctness of calculations and offer applications.
 
 - ✅ **Simple CLI Entry Point**
-  - `index.ts` file simulates a sample basket for demonstration.
+  - `index.ts` file simulates a sample cart for demonstration.
